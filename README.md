@@ -44,8 +44,8 @@ mlops_car_insurance/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/mlops_car_insurance.git
-cd mlops_car_insurance
+git clone https://github.com/CGhosh81/MLOPS-car-insurance
+cd MLOPS-car-insurance
 ```
 
 ### 2. Set Up Environment
